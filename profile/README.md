@@ -11,7 +11,7 @@
 |:-:|:-:|:-:|:-:|:-:|
 |<img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/fabf9228-3ecc-4d98-981b-14da1ee9972b" /> | <img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/7e5051dd-5c1d-48d7-bf98-5a62e3f23006" />  | <img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/4abcd30f-d556-4c7b-affc-410e227e279c" />  | <img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/180b7249-f13d-4c6d-856a-8b0d34f13db4" />| <img width="420" height="420" alt="Image" src="https://github.com/user-attachments/assets/2fd77cfd-f49f-4317-a946-5ff255bd6a86" /> |
 | [임홍담](https://github.com/ahdeka) | [김윤수](https://github.com/rladbstn0) | [이예진](https://github.com/yeeJin227) | [김유석](https://github.com/YouSeok518) | [유효상](https://github.com/yoostill) |
-| 인증/인가 , 회원 서비스 | 펀딩 서비스 | 상품, 파일 서비스 / 배포 | 결제, 주문, 리뷰 서비스 | 대시보드, 정산 서비스 |
+| 인증/인가 , 회원 서비스 | 펀딩 서비스 | 상품, 파일 서비스 / 배포 | 주문, 결제, 리뷰 서비스 | 대시보드, 정산 서비스 |
 ### Front-end
 | 팀장 | 팀원 | 팀원 |
 |:-:|:-:|:-:|
