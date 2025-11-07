@@ -17,7 +17,7 @@
 |:-:|:-:|:-:|
 |<img width="175" height="175" alt="Image" src="https://github.com/user-attachments/assets/17a8b749-3e04-47b8-be6b-6fac13ed8e2a" /> | <img width="175" height="175" alt="Image" src="https://github.com/user-attachments/assets/6ecd0f85-d890-4aa4-8c0e-a48a814f3406" /> | <img width="175" height="175" alt="Image" src="https://github.com/user-attachments/assets/7bcaa1f1-3f16-4bd1-b21d-2cdb58178f54" />  |
 | [손영웅](https://github.com/heroson02) | [이소민](https://github.com/mintsky0172) | [최정은](https://github.com/chechoii) |
-| 작성해주세요 | 작성해주세요 | 작성해주세요 |
+| 주문, 결제, 펀딩, 유저 대시보드 | 작성해주세요 | 작성해주세요 |
 ---
 
 
