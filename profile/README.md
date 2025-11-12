@@ -1,6 +1,6 @@
 
 # 모리모리(MORIMORI)
-<p align="center"> <br>  <img width="815" height="174" alt="모리모리 로고" src="https://github.com/user-attachments/assets/f120c8c2-e866-487d-97d4-4c7d8471755e" /> <br> <br> <br> 🌳지친 일상 속 휴식이 되어줄 수 있는 조그만 숲🌳 <br>
+<p align="center"> <br>  <img width="650" height="150" alt="모리모리 로고" src="https://github.com/user-attachments/assets/f120c8c2-e866-487d-97d4-4c7d8471755e" /> <br> <br> <br> 🌳지친 일상 속 휴식이 되어줄 수 있는 조그만 숲🌳 <br>
   <b>소규모 문구 작가와 소비자를 연결하는 종합 문구 이커머스 서비스</b> </p>
 
 ## 팀원 소개
