@@ -20,8 +20,9 @@
 
 ## 시스템 아키텍처
 <br>
-<img width="1254" height="575" alt="시스템 아키텍처" src="https://github.com/user-attachments/assets/aed9fce3-23e5-4884-96d7-f070ee735821" />
+<img width="1254" height="575" alt="모리모리 아키텍처" src="https://github.com/user-attachments/assets/1a4f4624-2e01-43fd-b9f2-d690147a950c" />
 <br>
+
 
 ## 서비스 주소
 - 모리모리 서비스: 🔗https://www.mori-mori.store <br>
